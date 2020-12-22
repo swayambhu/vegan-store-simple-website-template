@@ -17,6 +17,7 @@ body{
   height:75px;
   top:0;
   box-sizing:border-box;
+  z-index: 99;
 }
 .brand-logo{
   height:40px;
