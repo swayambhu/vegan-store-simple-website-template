@@ -356,149 +356,150 @@ body{
 }
 
 .comp-stats-wrapper {
-    width: 100%;
-    max-width: 1145px;
-    text-align: center;
-    display: flex;
-    justify-content: stretch;
-    padding: 100px 0px;
-    margin: 0px auto;
+  width: 100%;
+  max-width: 1145px;
+  text-align: center;
+  display: flex;
+  justify-content: stretch;
+  padding: 100px 0px;
+  margin: 0px auto;
 }
 
 .comp-stats-item {
-    width: 25%;
-    padding: 0px 65px;
+  width: 25%;
+  padding: 0px 65px;
 }
 
 .comp-stats-item h1 {
-    font-size: 45px;
-    font-weight: 600;
-    margin: 0px;
+  font-size: 45px;
+  font-weight: 600;
+  margin: 0px;
 }
 
 
 .comp-stats-item p {
-    font-size: 14px;
-    font-style: italic;
-    color: rgb(87, 227, 181);
-    letter-spacing: 0.5px;
-    margin: 0px;
+  font-size: 14px;
+  font-style: italic;
+  color: rgb(87, 227, 181);
+  letter-spacing: 0.5px;
+  margin: 0px;
 }
 
 #video-section > div {
-    width: 100%;
-    text-align: center;
-    max-width: 1140px;
-    margin: 0px auto;
+  width: 100%;
+  text-align: center;
+  max-width: 1140px;
+  margin: 0px auto;
 }
 
 
 #video-section h3 {
-    font-size: 44px;
-    color: rgb(139, 139, 153);
-    font-weight: 400;
+  font-size: 44px;
+  color: rgb(139, 139, 153);
+  font-weight: 400;
 }
 
 
 .video-line {
-    width: 95px;
-    display: inline-block;
-    height: 1px;
-    background-color: rgb(228, 180, 118);
-    margin-bottom: 35px;
+  width: 95px;
+  display: inline-block;
+  height: 1px;
+  background-color: rgb(228, 180, 118);
+  margin-bottom: 35px;
 }
 
 #video-section iframe {
-    width: 100%;
-    height: 425px;
+  width: 100%;
+  height: 425px;
 }
 
 #address-wrapper {
-    display: flex;
-    justify-content: space-between;
-    width: 100%;
-    max-width: 1140px;
-    padding: 100px 0px;
-    margin: 0px auto;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 1140px;
+  padding: 100px 0px;
+  margin: 0px auto;
 }
 
 #address-wrapper > div {
-    width: 50%;
-    margin: 30px;
+  width: 50%;
+  margin: 30px;
 }
 
 .heading {
-    font-size: 24px;
-    font-family: Caveat, cursive;
-    color: rgb(145, 172, 65);
-    margin: 35px 0px 0px;
+  font-size: 24px;
+  font-family: Caveat, cursive;
+  color: rgb(145, 172, 65);
+  margin: 35px 0px 0px;
 }
 
 .section-info {
-    font-size: 44px;
-    margin: 0px;
+  font-size: 44px;
+  margin: 0px;
 }
 
 .section-desc {
-    font-size: 16px;
-    font-weight: 400;
-    color: rgb(139, 139, 153);
-    letter-spacing: 0.5px;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgb(139, 139, 153);
+  letter-spacing: 0.5px;
 }
 
 .address-heading {
-    font-size: 24px;
-    font-weight: 600;
-    margin: 32px 0px 0px;
+  font-size: 24px;
+  font-weight: 600;
+  margin: 32px 0px 0px;
 }
 
 .address-desc {
-    font-size: 16px;
-    font-weight: 400;
-    letter-spacing: 0.5px;
-    line-height: 2;
-    color: rgb(139, 139, 153);
-    margin: 0px;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0.5px;
+  line-height: 2;
+  color: rgb(139, 139, 153);
+  margin: 0px;
 }
 
 .input-box {
-    font-size: 15px;
-    width: 100%;
-    color: rgb(139, 139, 153);
-    margin-bottom: 16px;
-    box-sizing: border-box;
-    padding: 15px;
-    border-width: 1px;
-    border-style: solid;
-    border-color: rgb(229, 230, 236);
-    border-image: initial;
-    border-radius: 5px;
+  font-size: 15px;
+  width: 100%;
+  color: rgb(139, 139, 153);
+  margin-bottom: 16px;
+  box-sizing: border-box;
+  padding: 15px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(229, 230, 236);
+  border-image: initial;
+  border-radius: 5px;
 }
 
 
 #btn-submit {
-    font-size: 16px;
+  font-size: 16px;
 }
 
 
 .primary-button {
-    color: rgb(255, 255, 255);
-    background-color: rgb(170, 210, 54);
-    text-transform: uppercase;
-    font-weight: 600;
-    cursor: pointer;
-    margin-right: 15px;
-    padding: 10px 35px;
-    border-radius: 5px;
-    border-width: 0px;
-    border-style: initial;
-    border-color: initial;
-    border-image: initial;
+  color: rgb(255, 255, 255);
+  background-color: rgb(170, 210, 54);
+  text-transform: uppercase;
+  font-weight: 600;
+  cursor: pointer;
+  margin-right: 15px;
+  padding: 10px 35px;
+  border-radius: 5px;
+  border-width: 0px;
+  border-style: initial;
+  border-color: initial;
+  border-image: initial;
 }
 
 footer {
-    background-color: rgb(35, 35, 35);
-    color: rgb(255, 255, 255);
-    text-align: center;
-    letter-spacing: 0.5px;
+  background-color: rgb(35, 35, 35);
+  color: rgb(255, 255, 255);
+  text-align: center;
+  letter-spacing: 0.5px;
+  padding: 30px 0px;
 }
